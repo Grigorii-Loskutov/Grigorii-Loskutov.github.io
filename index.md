@@ -7,7 +7,7 @@ email: [greg3mbpp@yandex.ru](mailto:greg3mbpp@yandex.ru)
 Telegram: [t.me/Gregory_Los](https://t.me/Gregory_Los)  
 **Разработчик на C++**
 
-#
+
 
 # **Ключевые компетенции**
 
