@@ -1,4 +1,4 @@
-<img src="Avatar.png" alt="Avatar" width="300" style="float: left; margin-right: 10px; margin-bottom: 10px;" />
+<img src="Avatar.png" alt="Avatar" width="200" style="float: left; margin-right: 10px; margin-bottom: 10px;" />
 
 **Григорий Лоскутов**  
 дата рождения: 21 апреля 1986  
@@ -6,6 +6,8 @@
 email: [greg3mbpp@yandex.ru](mailto:greg3mbpp@yandex.ru)  
 Telegram: [t.me/Gregory_Los](https://t.me/Gregory_Los)  
 **Разработчик на C++**
+
+
 
 
 
