@@ -1,13 +1,10 @@
-**Григорий Лоскутов**
+<img src="Avatar.png" alt="Avatar" width="300" style="float: left; margin-right: 10px; margin-bottom: 10px;" />
 
-**дата рождения: 21 апреля 1986**
-
-**тел.** +7 (995) 399-34-59
-
-**email: <greg3mbpp@yandex.ru>**
-
-**Telegram: t.me/Gregory_Los**
-
+**Григорий Лоскутов**  
+дата рождения: 21 апреля 1986  
+тел. +7 (995) 399-34-59  
+email: [greg3mbpp@yandex.ru](mailto:greg3mbpp@yandex.ru)  
+Telegram: [t.me/Gregory_Los](https://t.me/Gregory_Los)  
 **Разработчик на C++**
 
 #
